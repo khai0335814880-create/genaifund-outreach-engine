@@ -1,0 +1,10 @@
+# Pinned production dependencies for GenAI Fund FDE Assignment
+# Python 3.11+ / 3.12+ compatibility verified
+
+tweepy==4.17.0
+streamlit==1.58.0
+openai==2.17.0
+python-dotenv==1.0.0
+pytest==9.2.0
+requests==2.34.2
+reportlab==5.0.1
