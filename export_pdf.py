@@ -91,7 +91,7 @@ def generate_pdf(output_path="ONE_PAGER.pdf"):
 
     # Title & Subtitle
     story.append(Paragraph("GenAI Fund — Forward Deployed Engineer (FDE) Write-up", title_style))
-    story.append(Paragraph("<b>Project:</b> AI & Robotics Talent Discovery & Evidence-Grounded Outreach Engine | <b>Author:</b> FDE Candidate | <b>Date:</b> November 2026", subtitle_style))
+    story.append(Paragraph("<b>Project:</b> AI & Robotics Talent Discovery & Evidence-Grounded Outreach Engine | <b>Author:</b> Khai Nguyen (FDE Candidate) | <b>Date:</b> November 2026", subtitle_style))
     story.append(HRFlowable(width="100%", thickness=0.8, color=colors.HexColor("#d0d7de"), spaceAfter=5, spaceBefore=0))
 
     # 1. Executive Summary & Approach

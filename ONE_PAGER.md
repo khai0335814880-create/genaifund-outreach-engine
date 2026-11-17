@@ -1,6 +1,6 @@
 # GenAI Fund — Forward Deployed Engineer (FDE) Write-up
 **Project:** AI & Robotics Talent Discovery & Evidence-Grounded Outreach Engine  
-**Author:** Forward Deployed Engineer Candidate  
+**Author:** Khai Nguyen (FDE Candidate)  
 **Date:** November 2026  
 
 ---
